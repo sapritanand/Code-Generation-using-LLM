@@ -14,7 +14,7 @@ In this project, the pre-trained model is fine-tuned on a curated dataset of pro
 3. Documentation for various programming languages.
 
 ## Fine-Tuning LLMs for Code Generation
-This project demonstrates how to fine-tune pre-trained Large Language Models (LLMs) to specialize in code generation. Fine-tuning adapts a general-purpose LLM (e.g., GPT) to understand and generate high-quality code snippets for specific programming tasks.
+This project demonstrates how to fine-tune pre-trained Large Language Models (LLMs) to specialize in code generation. Fine-tuning adapts a general-purpose LLM (e.g., GPT) to understand and generate high-quality code snippets for specific programming tasks.Fine-tuning is the process of taking a pre-trained machine learning model and adapting it to perform a specific task by training it further on a smaller, task-specific dataset. This approach leverages the knowledge the model has already learned during pre-training, reducing the time, computational resources, and data required for the task-specific training.
 
 Steps:
 1. Dataset Preparation: Curate a task-specific dataset with programming problems and solutions.
